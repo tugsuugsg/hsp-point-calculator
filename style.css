@@ -1,0 +1,13 @@
+#total-points {
+    color: #0d6efd; /* Bootstrap primary blue */
+}
+
+#result-message.success {
+    color: #198754; /* Bootstrap success green */
+    font-weight: bold;
+}
+
+#result-message.failure {
+    color: #dc3545; /* Bootstrap danger red */
+    font-weight: bold;
+}
